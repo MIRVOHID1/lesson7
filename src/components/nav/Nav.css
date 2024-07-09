@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.nav_button{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: black;
+    margin: 0 10px;
+}
